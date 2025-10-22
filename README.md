@@ -16,6 +16,8 @@ Le projet a été réalisé en Python avec une integration graphique avec PySide
 Ouvrez le terminal et rendez-vous a l'endroit où vous souhaitez cloner le projet.
 Executer les commandes suivante
 
+### Je suis sur Windows
+
 ```
 git clone https://github.com/Mitrix44/gestionnaire_de_tache.git
 cd './gestionnaire_de_tache'
@@ -25,5 +27,15 @@ pip install PySide6
 python main.py
 ```
 
+### Je suis sur Linux
+
+````
+git clone https://github.com/Mitrix44/gestionnaire_de_tache.git
+cd './gestionnaire_de_tache'
+python3 -m venv env
+source env/bin/activate
+pip install PySide6
+python main.py
+```
 
 
