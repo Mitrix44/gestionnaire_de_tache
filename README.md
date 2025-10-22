@@ -27,7 +27,7 @@ pip install PySide6
 python main.py
 ```
 
-### Je suis sur Linux
+### Je suis sur Mac ou Linux
 
 ````
 git clone https://github.com/Mitrix44/gestionnaire_de_tache.git
