@@ -29,7 +29,7 @@ python main.py
 
 ### Je suis sur Mac ou Linux
 
-````
+```
 git clone https://github.com/Mitrix44/gestionnaire_de_tache.git
 cd './gestionnaire_de_tache'
 python3 -m venv env
@@ -37,5 +37,3 @@ source env/bin/activate
 pip install PySide6
 python main.py
 ```
-
-
